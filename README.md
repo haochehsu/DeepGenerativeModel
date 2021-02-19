@@ -7,7 +7,7 @@ This project re‐implement the introspective variational autoencoder to synthes
 	<center><img src="./images/reconstruct.png" width="90%"></center>
 
 
-2. Sample from model
+2. Sample from the model
 
 	<center><img src="./images/sample.png" width="90%"></center>
 
